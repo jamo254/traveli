@@ -1,0 +1,608 @@
+[
+  {
+    "City": "New York City",
+    "Country": "United States",
+    "Population": "8.8M",
+    "Cost_of_living": "$3879"
+  },
+  {
+    "City": "London",
+    "Country": "United Kingdom",
+    "Population": "8.91M",
+    "Cost_of_living": "$3029"
+  },
+  {
+    "City": "Beijing",
+    "Country": "China",
+    "Population": "21.9M",
+    "Cost_of_living": "$1150"
+  },
+  {
+    "City": "Tokyo",
+    "Country": "Japan",
+    "Population": "14M",
+    "Cost_of_living": "$1601"
+  },
+  {
+    "City": "Shanghai",
+    "Country": "China",
+    "Population": "24.9M",
+    "Cost_of_living": "$1183"
+  },
+  {
+    "City": "Singapore City",
+    "Country": "Singapore",
+    "Population": "5.87M",
+    "Cost_of_living": "$3416"
+  },
+  {
+    "City": "Seoul",
+    "Country": "South Korea",
+    "Population": "9.67M",
+    "Cost_of_living": "$1513"
+  },
+  {
+    "City": "Shenzhen",
+    "Country": "China",
+    "Population": "17.5M",
+    "Cost_of_living": "$1043"
+  },
+  {
+    "City": "Chongqing",
+    "Country": "China",
+    "Population": "32.1M",
+    "Cost_of_living": "$684"
+  },
+  {
+    "City": "Los Angeles",
+    "Country": "United States",
+    "Population": "3.9M",
+    "Cost_of_living": "$3145"
+  },
+  {
+    "City": "Hong Kong",
+    "Country": "China",
+    "Population": "7.41M",
+    "Cost_of_living": "$2720"
+  },
+  {
+    "City": "Guangzhou",
+    "Country": "China",
+    "Population": "18.7M",
+    "Cost_of_living": "$760"
+  },
+  {
+    "City": "Sydney",
+    "Country": "Australia",
+    "Population": "4.84M",
+    "Cost_of_living": "$2564"
+  },
+  {
+    "City": "Bangalore",
+    "Country": "India",
+    "Population": "12.3M",
+    "Cost_of_living": "$576"
+  },
+  {
+    "City": "Delhi",
+    "Country": "India",
+    "Population": "26.5M",
+    "Cost_of_living": "$478"
+  },
+  {
+    "City": "Chicago",
+    "Country": "United States",
+    "Population": "2.75M",
+    "Cost_of_living": "$2425"
+  },
+  {
+    "City": "Chengdu",
+    "Country": "China",
+    "Population": "20.9M",
+    "Cost_of_living": "$677"
+  },
+  {
+    "City": "Riyadh",
+    "Country": "Saudi Arabia",
+    "Population": "7.01M",
+    "Cost_of_living": "$1360"
+  },
+  {
+    "City": "Melbourne",
+    "Country": "Australia",
+    "Population": "4.53M",
+    "Cost_of_living": "$2266"
+  },
+  {
+    "City": "Dubai",
+    "Country": "United Arab Emirates",
+    "Population": "3.33M",
+    "Cost_of_living": "$1975"
+  },
+  {
+    "City": "Kinshasa",
+    "Country": "DR Congo",
+    "Population": "11.9M",
+    "Cost_of_living": "$1085"
+  },
+  {
+    "City": "Tianjin",
+    "Country": "China",
+    "Population": "13.9M",
+    "Cost_of_living": "$724"
+  },
+  {
+    "City": "Moscow",
+    "Country": "Russia",
+    "Population": "12.5M",
+    "Cost_of_living": "$942"
+  },
+  {
+    "City": "Berlin",
+    "Country": "Germany",
+    "Population": "3.68M",
+    "Cost_of_living": "$2180"
+  },
+  {
+    "City": "Houston",
+    "Country": "United States",
+    "Population": "2.3M",
+    "Cost_of_living": "$2209"
+  },
+  {
+    "City": "Hangzhou",
+    "Country": "China",
+    "Population": "11.9M",
+    "Cost_of_living": "$849"
+  },
+  {
+    "City": "Xi'an",
+    "Country": "China",
+    "Population": "13M",
+    "Cost_of_living": "$563"
+  },
+  {
+    "City": "Mumbai",
+    "Country": "India",
+    "Population": "15.4M",
+    "Cost_of_living": "$695"
+  },
+  {
+    "City": "Yokohama",
+    "Country": "Japan",
+    "Population": "3.76M",
+    "Cost_of_living": "$1463"
+  },
+  {
+    "City": "Toronto",
+    "Country": "Canada",
+    "Population": "2.79M",
+    "Cost_of_living": "$2460"
+  },
+  {
+    "City": "Madrid",
+    "Country": "Spain",
+    "Population": "3.28M",
+    "Cost_of_living": "$1642"
+  },
+  {
+    "City": "Jeddah",
+    "Country": "Saudi Arabia",
+    "Population": "4.7M",
+    "Cost_of_living": "$1084"
+  },
+  {
+    "City": "Busan",
+    "Country": "South Korea",
+    "Population": "3.45M",
+    "Cost_of_living": "$1095"
+  },
+  {
+    "City": "Phoenix",
+    "Country": "United States",
+    "Population": "1.61M",
+    "Cost_of_living": "$2445"
+  },
+  {
+    "City": "Brisbane",
+    "Country": "Australia",
+    "Population": "2.36M",
+    "Cost_of_living": "$2299"
+  },
+  {
+    "City": "Philadelphia",
+    "Country": "United States",
+    "Population": "1.6M",
+    "Cost_of_living": "$2479"
+  },
+  {
+    "City": "Mexico City",
+    "Country": "Mexico",
+    "Population": "9.21M",
+    "Cost_of_living": "$1208"
+  },
+  {
+    "City": "Istanbul",
+    "Country": "Turkey",
+    "Population": "15.5M",
+    "Cost_of_living": "$778"
+  },
+  {
+    "City": "San Diego",
+    "Country": "United States",
+    "Population": "1.39M",
+    "Cost_of_living": "$3215"
+  },
+  {
+    "City": "Perth",
+    "Country": "Australia",
+    "Population": "2.14M",
+    "Cost_of_living": "$2251"
+  },
+  {
+    "City": "San Jose",
+    "Country": "United States",
+    "Population": "1.01M",
+    "Cost_of_living": "$3115"
+  },
+  {
+    "City": "Johannesburg",
+    "Country": "South Africa",
+    "Population": "4.43M",
+    "Cost_of_living": "$967"
+  },
+  {
+    "City": "Dallas",
+    "Country": "United States",
+    "Population": "1.3M",
+    "Cost_of_living": "$2426"
+  },
+  {
+    "City": "Hyderabad",
+    "Country": "India",
+    "Population": "9.31M",
+    "Cost_of_living": "$458"
+  },
+  {
+    "City": "Paris",
+    "Country": "France",
+    "Population": "2.15M",
+    "Cost_of_living": "$2194"
+  },
+  {
+    "City": "Hamburg City",
+    "Country": "Germany",
+    "Population": "1.85M",
+    "Cost_of_living": "$1970"
+  },
+  {
+    "City": "San Antonio",
+    "Country": "United States",
+    "Population": "1.43M",
+    "Cost_of_living": "$2051"
+  },
+  {
+    "City": "New Taipei",
+    "Country": "Taiwan",
+    "Population": "4.36M",
+    "Cost_of_living": "$1032"
+  },
+  {
+    "City": "Vienna",
+    "Country": "Austria",
+    "Population": "1.97M",
+    "Cost_of_living": "$1749"
+  },
+  {
+    "City": "Chennai",
+    "Country": "India",
+    "Population": "10.3M",
+    "Cost_of_living": "$424"
+  },
+  {
+    "City": "Incheon",
+    "Country": "South Korea",
+    "Population": "2.94M",
+    "Cost_of_living": "$1054"
+  },
+  {
+    "City": "Sao Paulo",
+    "Country": "Brazil",
+    "Population": "12.4M",
+    "Cost_of_living": "$1062"
+  },
+  {
+    "City": "Osaka",
+    "Country": "Japan",
+    "Population": "2.75M",
+    "Cost_of_living": "$1212"
+  },
+  {
+    "City": "Pune",
+    "Country": "India",
+    "Population": "5.95M",
+    "Cost_of_living": "$480"
+  },
+  {
+    "City": "Kuwait City",
+    "Country": "Kuwait",
+    "Population": "2.99M",
+    "Cost_of_living": "$1380"
+  },
+  {
+    "City": "Munich",
+    "Country": "Germany",
+    "Population": "1.49M",
+    "Cost_of_living": "$2149"
+  },
+  {
+    "City": "Rome",
+    "Country": "Italy",
+    "Population": "2.87M",
+    "Cost_of_living": "$1716"
+  },
+  {
+    "City": "Abu Dhabi",
+    "Country": "United Arab Emirates",
+    "Population": "1.48M",
+    "Cost_of_living": "$1897"
+  },
+  {
+    "City": "Nagoya",
+    "Country": "Japan",
+    "Population": "2.33M",
+    "Cost_of_living": "$1332"
+  },
+  {
+    "City": "Montreal",
+    "Country": "Canada",
+    "Population": "1.76M",
+    "Cost_of_living": "$1760"
+  },
+  {
+    "City": "Kawasaki",
+    "Country": "Japan",
+    "Population": "1.54M",
+    "Cost_of_living": "$1094"
+  },
+  {
+    "City": "Ho Chi Minh",
+    "Country": "Vietnam",
+    "Population": "10.4M",
+    "Cost_of_living": "$725"
+  },
+  {
+    "City": "Auckland",
+    "Country": "New Zealand",
+    "Population": "1.47M",
+    "Cost_of_living": "$2127"
+  },
+  {
+    "City": "Taipei",
+    "Country": "Taiwan",
+    "Population": "2.6M",
+    "Cost_of_living": "$1127"
+  },
+  {
+    "City": "Daegu",
+    "Country": "South Korea",
+    "Population": "2.44M",
+    "Cost_of_living": "$1161"
+  },
+  {
+    "City": "Jakarta",
+    "Country": "Indonesia",
+    "Population": "10.6M",
+    "Cost_of_living": "$737"
+  },
+  {
+    "City": "Dhaka",
+    "Country": "Bangladesh",
+    "Population": "16.8M",
+    "Cost_of_living": "$512"
+  },
+  {
+    "City": "Lima",
+    "Country": "Peru",
+    "Population": "9.94M",
+    "Cost_of_living": "$951"
+  },
+  {
+    "City": "Hanoi",
+    "Country": "Vietnam",
+    "Population": "8.25M",
+    "Cost_of_living": "$639"
+  },
+  {
+    "City": "Santiago",
+    "Country": "Chile",
+    "Population": "6.26M",
+    "Cost_of_living": "$1191"
+  },
+  {
+    "City": "Calgary",
+    "Country": "Canada",
+    "Population": "1.31M",
+    "Cost_of_living": "$1996"
+  },
+  {
+    "City": "Doha",
+    "Country": "Qatar",
+    "Population": "1.19M",
+    "Cost_of_living": "$1940"
+  },
+  {
+    "City": "Saint Petersburg",
+    "Country": "Russia",
+    "Population": "5.38M",
+    "Cost_of_living": "$739"
+  },
+  {
+    "City": "Bangkok",
+    "Country": "Thailand",
+    "Population": "5.68M",
+    "Cost_of_living": "$981"
+  },
+  {
+    "City": "Amsterdam",
+    "Country": "Netherlands",
+    "Population": "921K",
+    "Cost_of_living": "$2412"
+  },
+  {
+    "City": "Kobe",
+    "Country": "Japan",
+    "Population": "1.52M",
+    "Cost_of_living": "$1274"
+  },
+  {
+    "City": "Gwangju",
+    "Country": "South Korea",
+    "Population": "1.49M",
+    "Cost_of_living": "$970"
+  },
+  {
+    "City": "Baghdad",
+    "Country": "Iraq",
+    "Population": "6.96M",
+    "Cost_of_living": "$857"
+  },
+  {
+    "City": "Adelaide",
+    "Country": "Australia",
+    "Population": "1.3M",
+    "Cost_of_living": "$2153"
+  },
+  {
+    "City": "Daejeon",
+    "Country": "South Korea",
+    "Population": "1.48M",
+    "Cost_of_living": "$1009"
+  },
+  {
+    "City": "Mecca",
+    "Country": "Saudi Arabia",
+    "Population": "1.68M",
+    "Cost_of_living": "$977"
+  },
+  {
+    "City": "Luanda",
+    "Country": "Angola",
+    "Population": "2.49M",
+    "Cost_of_living": "$1005"
+  },
+  {
+    "City": "Ahmedabad",
+    "Country": "India",
+    "Population": "7.65M",
+    "Cost_of_living": "$684"
+  },
+  {
+    "City": "Sapporo",
+    "Country": "Japan",
+    "Population": "1.96M",
+    "Cost_of_living": "$1101"
+  },
+  {
+    "City": "Taichung",
+    "Country": "Taiwan",
+    "Population": "3.03M",
+    "Cost_of_living": "$971"
+  },
+  {
+    "City": "Birmingham",
+    "Country": "United Kingdom",
+    "Population": "1.14M",
+    "Cost_of_living": "$1854"
+  },
+  {
+    "City": "Suwon",
+    "Country": "South Korea",
+    "Population": "1.23M",
+    "Cost_of_living": "$1046"
+  },
+  {
+    "City": "Ottawa",
+    "Country": "Canada",
+    "Population": "1.02M",
+    "Cost_of_living": "$2005"
+  },
+  {
+    "City": "Barcelona",
+    "Country": "Spain",
+    "Population": "1.64M",
+    "Cost_of_living": "$1720"
+  },
+  {
+    "City": "Ulsan",
+    "Country": "South Korea",
+    "Population": "1.15M",
+    "Cost_of_living": "$1120"
+  },
+  {
+    "City": "Huambo",
+    "Country": "Angola",
+    "Population": "844K",
+    "Cost_of_living": "$738"
+  },
+  {
+    "City": "Mbuji-Mayi",
+    "Country": "DR Congo",
+    "Population": "2.89M",
+    "Cost_of_living": "$1043"
+  },
+  {
+    "City": "Stockholm",
+    "Country": "Sweden",
+    "Population": "979K",
+    "Cost_of_living": "$1936"
+  },
+  {
+    "City": "Sendai",
+    "Country": "Japan",
+    "Population": "1.06M",
+    "Cost_of_living": "$1103"
+  },
+  {
+    "City": "Zurich",
+    "Country": "Switzerland",
+    "Population": "443K",
+    "Cost_of_living": "$3262"
+  },
+  {
+    "City": "Kaohsiung",
+    "Country": "Taiwan",
+    "Population": "2.73M",
+    "Cost_of_living": "$903"
+  },
+  {
+    "City": "Edmonton",
+    "Country": "Canada",
+    "Population": "1.01M",
+    "Cost_of_living": "$1742"
+  },
+  {
+    "City": "Cologne",
+    "Country": "Germany",
+    "Population": "1.07M",
+    "Cost_of_living": "$1751"
+  },
+  {
+    "City": "Warsaw",
+    "Country": "Poland",
+    "Population": "1.86M",
+    "Cost_of_living": "$1389"
+  },
+  {
+    "City": "Frankfurt",
+    "Country": "Germany",
+    "Population": "759K",
+    "Cost_of_living": "$1890"
+  },
+  {
+    "City": "Nairobi",
+    "Country": "Kenya",
+    "Population": "5.55M",
+    "Cost_of_living": "$1785"
+  }
+]
